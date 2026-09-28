@@ -5,12 +5,14 @@
 ## 🚀 사용 방법
 
 ### 1단계: 설정 변경 (`config.yml`)
-`config.yml` 파일을 열어 내 앱 이름과 연결할 웹사이트 주소를 적으세요.
+`config.yml` 파일을 열어 앱 이름과 전체화면으로 열 주소를 적으세요.
 
 ```yaml
-app_name: "내 멋진 앱"
-webview_url: "https://www.example.com"
+app_name: "NaNa QR"
+webview_url: "https://nanalab.kr/qr"
 ```
+
+브라우저용 웹 앱은 `web/index.html` 입니다. 같은 주소를 전체화면으로 띄우며, 홈 화면에 추가하면 앱처럼 열립니다.
 
 ### 2단계: 아이콘 등록 (`icon.png`)
 이 폴더에 있는 `icon.png` 파일을 원하는 앱 아이콘 이미지로 교체하세요.

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.webviewapp"
+    namespace = "kr.nanalab.qr"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.webviewapp"
+        applicationId = "kr.nanalab.qr"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

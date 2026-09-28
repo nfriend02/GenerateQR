@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WebViewApp"
+rootProject.name = "NaNaQR"
 include(":app")

@@ -1,7 +1,4 @@
 <resources>
-    <!-- Change this to your App Name -->
-    <string name="app_name">My WebView App</string>
-    
-    <!-- Change this to your Website URL -->
-    <string name="webview_url">https://example.com</string>
+    <string name="app_name">NaNa QR</string>
+    <string name="webview_url">https://nanalab.kr/qr</string>
 </resources>
